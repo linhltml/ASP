@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lethimylinh_2122130036\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|e:\\lethimylinh_2122130036\\lethimylinh_2122130036\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|e:\\lethimylinh_2122130036\\lethimylinh_2122130036\\views\\category\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\views\\category\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|e:\\lethimylinh_2122130036\\lethimylinh_2122130036\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|e:\\lethimylinh_2122130036\\lethimylinh_2122130036\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|e:\\lethimylinh_2122130036\\lethimylinh_2122130036\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|e:\\lethimylinh_2122130036\\lethimylinh_2122130036\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|e:\\lethimylinh_2122130036\\lethimylinh_2122130036\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:19:35.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAANQAAAAAAAAAAAAUwOwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:18:42.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
+              "ToolTip": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:18:12.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:53:01.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:17:30.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:17:15.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHYCAAAAAAAAAAAAAI0CAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T11:31:33.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
