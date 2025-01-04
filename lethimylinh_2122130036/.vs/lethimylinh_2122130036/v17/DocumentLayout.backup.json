@@ -3,76 +3,111 @@
   "WorkspaceRootPath": "E:\\asp\\lethimylinh_2122130036\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Category\\Category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Category\\Category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Product\\Detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Product\\Detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|e:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|e:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ListController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\ListController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\context\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\context\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Content\\Concent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Content\\Concent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\context\\dbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\context\\dbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Register\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Register\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Category\\Category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Category\\Category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\RegisterController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\RegisterController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Product\\Detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Product\\Detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linhl\\Documents\\Zalo Received Files\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\List\\ListLagre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\List\\ListLagre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\List\\ListGrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\List\\ListGrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ListController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\ListController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ContentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\ContentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\List\\ListGrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\List\\ListGrid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Content\\Concent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Content\\Concent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\RegisterController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\RegisterController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Register\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\Register\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A536939D-B98C-4C04-B409-684619BB0B66}|lethimylinh_2122130036\\lethimylinh_2122130036.csproj|solutionrelative:lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,37 +117,214 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Context\\Category.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Context\\Category.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Context\\Category.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Context\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:52:15.515Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Login\\Login.cshtml",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwCUAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T06:38:17.672Z",
-              "EditorCaption": ""
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Models\\HomeModel.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Models\\HomeModel.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:20:03.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Context\\Product.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Context\\Product.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Context\\Product.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Context\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:18:11.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:53:01.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbModel.Context.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Context\\dbModel.Context.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Context\\dbModel.Context.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Context\\dbModel.Context.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Context\\dbModel.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:40:37.756Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAANEAAAAAAAAAAAAiwOYAAAAHAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAcwLcAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:19:35.778Z",
+              "WhenOpened": "2024-12-13T11:31:33.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:37:27.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:36:23.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:19:35.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAiwIYDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T11:41:07.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:18:42.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:18:12.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAiwIQBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T11:37:51.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\linhl\\Documents\\Zalo Received Files\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\linhl\\Documents\\Zalo Received Files\\_Layout.cshtml",
+              "ViewState": "AgIAAGwDAAAAAAAAAAAiwIYDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T11:40:55.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\ContentController.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\ContentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:31:27.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Login\\Login.cshtml",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T06:38:17.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListController.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ListController.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\ListController.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ListController.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\ListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:34:14.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\ProductController.cs",
@@ -120,146 +332,7 @@
               "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:17:30.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Concent.cshtml",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Content\\Concent.cshtml",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Content\\Concent.cshtml",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Content\\Concent.cshtml",
-              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Content\\Concent.cshtml",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T06:32:56.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T11:53:01.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ListController.cs",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ListController.cs",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\ListController.cs",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ListController.cs",
-              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\ListController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:34:14.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
-              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:18:42.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Category.cshtml",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
-              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Category\\Category.cshtml",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAAAH8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:18:12.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAKwCAAAAAAAAAAAAAMwBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T11:31:33.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\LoginController.cs",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:37:52.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\RegisterController.cs",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\RegisterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:39:42.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Register\\Register.cshtml",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Register\\Register.cshtml",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Register\\Register.cshtml",
-              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Register\\Register.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T06:40:17.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:41:31.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShoppingCart.cshtml",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml",
-              "RelativeToolTip": "lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml",
-              "ViewState": "AgIAALAAAAAAAAAAAAAcwMcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T06:42:06.275Z"
+              "WhenOpened": "2024-12-13T12:17:30.338Z"
             },
             {
               "$type": "Document",
@@ -275,27 +348,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "ListGrid.cshtml",
               "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\List\\ListGrid.cshtml",
               "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\List\\ListGrid.cshtml",
               "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\List\\ListGrid.cshtml",
               "RelativeToolTip": "lethimylinh_2122130036\\Views\\List\\ListGrid.cshtml",
-              "ViewState": "AgIAAFsCAAAAAAAAAAAcwHICAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFsCAAAAAAAAAAAcwGwCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T06:35:46.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ContentController.cs",
-              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ContentController.cs",
-              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\ContentController.cs",
-              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ContentController.cs",
-              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\ContentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:31:27.121Z"
             },
             {
               "$type": "Document",
@@ -308,6 +369,78 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T12:17:15.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Concent.cshtml",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Content\\Concent.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Content\\Concent.cshtml",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Content\\Concent.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Content\\Concent.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T06:32:56.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:37:52.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\RegisterController.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:39:42.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\Register\\Register.cshtml",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\Register\\Register.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T06:40:17.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "lethimylinh_2122130036\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:41:31.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShoppingCart.cshtml",
+              "DocumentMoniker": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml",
+              "RelativeDocumentMoniker": "lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml",
+              "ToolTip": "E:\\asp\\lethimylinh_2122130036\\lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml",
+              "RelativeToolTip": "lethimylinh_2122130036\\Views\\ShoppingCart\\ShoppingCart.cshtml",
+              "ViewState": "AgIAALAAAAAAAAAAAAAcwMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T06:42:06.275Z"
             }
           ]
         }

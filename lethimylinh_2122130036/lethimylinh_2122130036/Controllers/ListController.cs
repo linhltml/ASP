@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace HuynhVoThuyDung_2122110289.Controllers
+namespace lethimylinh_2122130036.Controllers
 {
     public class ListController : Controller
     {
